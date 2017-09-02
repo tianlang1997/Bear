@@ -1,0 +1,8 @@
+#include "WelcomeScene.h"
+#include "MainMenuScene.h"
+#include "ForestFightScene.h"
+#include "LakeFightScene.h"
+#include "Enemy.h"
+#include "DevilGirl.h"
+#include "MenuOptionLayer.h"
+#include "Hero.h"
